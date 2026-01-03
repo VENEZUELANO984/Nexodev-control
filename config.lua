@@ -1,5 +1,4 @@
--- Lista de usuarios permitidos para usar el menú de administración
+-- Lista de administradores permitidos para el menú ADMIN
 return {
-    "DX_UNO2",
-    "ELIANQUELOQUE4"
+    [8540422437] = true,
 }
